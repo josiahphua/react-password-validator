@@ -39,7 +39,6 @@ For this exercise, don't be concerned about the distinction between container an
 * Make sure passwords includes a number and a special character. (Check out [Regex](http://emailregex.com/))
 * Validate the email to make sure it includes an `@` sign.
 * Highlight the inputs where the errors occurred.
-* Try switching to functional component and use useState.
 
 ### Double Mega Bonus
 
